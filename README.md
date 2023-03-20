@@ -2,4 +2,4 @@
 
 GitHub Pages.
 
-Currently showing: Barbershop - School task
+Currently showing: [Barbershop](https://github.com/arden-rh/barbershop "GitHub repo for Barbershop")
