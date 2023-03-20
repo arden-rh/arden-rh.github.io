@@ -1,5 +1,5 @@
 # arden-rh.github.io
 
-GitHub Pages, showing my latest projekt.
+GitHub Pages.
 
 Currently showing: Barbershop - School task
